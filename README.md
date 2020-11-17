@@ -17,3 +17,8 @@
 ![](https://img.shields.io/badge/windows-lenovo%20legion%20-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white)
 ![](https://img.shields.io/badge/nvidia-gtx1650-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white)
 ![](https://img.shields.io/badge/intel-core%20i7%20-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white)
+
+# Games
+
+![](https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white)
+![](https://img.shields.io/badge/playstation-%23003791.svg?&style=for-the-badge&logo=playstation&logoColor=white)
