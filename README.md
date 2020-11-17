@@ -2,6 +2,7 @@
 
 # Hello, I am Berkay Özgür! 
 #Interests
+
 https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white
 https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white
 https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white
