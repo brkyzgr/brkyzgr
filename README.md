@@ -16,4 +16,4 @@
 
 ![](https://img.shields.io/badge/windows-lenovo%20legion%20-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white)
 ![](https://img.shields.io/badge/nvidia-gtx1650-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white)
-![](https://img.shields.io/badge/intel-core%20i5%2010th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white)
+![](https://img.shields.io/badge/intel-core%20i7%20-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white)
