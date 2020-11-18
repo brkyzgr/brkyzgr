@@ -1,5 +1,7 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=brkyzgr&show_icons=true">
 
+![Profile views](https://gpvc.arturio.dev/[brkyzgr])
+
 # Hello, I am Berkay Özgür! 
 
 # Interests
