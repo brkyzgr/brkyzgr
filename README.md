@@ -13,7 +13,7 @@
 [![](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)](www.mongodb.com)
 [![](https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white)](www.sqlite.org/index.html)
 [![](https://img.shields.io/badge/unity%20-%23100000.svg?&style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
-[![](https://img.shields.io/badge/unreal%20engine%20-%23313131.svg?&style=for-the-badge&logo=unreal%20engine&logoColor=white)(https://www.unrealengine.com/en-US/)
+[![](https://img.shields.io/badge/unreal%20engine%20-%23313131.svg?&style=for-the-badge&logo=unreal%20engine&logoColor=white)](https://www.unrealengine.com/en-US/)
 
 # Workspace Spec 
 
@@ -25,6 +25,7 @@
 
 [![](https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/barberk)
 [![](https://img.shields.io/badge/playstation-%23003791.svg?&style=for-the-badge&logo=playstation&logoColor=white)](https://my.playstation.com/profile/brkyzgr)
+[![](https://img.shields.io/badge/ea%20-%23000000.svg?&style=for-the-badge&logo=ea&logoColor=white)](https://www.origin.com/irl/en-us/profile/achievemen)
 
 # Contact
 
