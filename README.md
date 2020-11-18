@@ -25,7 +25,7 @@
 
 [![](https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/barberk)
 [![](https://img.shields.io/badge/playstation-%23003791.svg?&style=for-the-badge&logo=playstation&logoColor=white)](https://my.playstation.com/profile/brkyzgr)
-[![](https://img.shields.io/badge/ea%20-%23000000.svg?&style=for-the-badge&logo=ea&logoColor=white)](https://www.origin.com/irl/en-us/profile/achievemen)
+
 
 # Contact
 
