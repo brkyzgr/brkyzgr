@@ -4,13 +4,13 @@
 
 # Interests
 
-![](https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white)(https://docs.microsoft.com/tr-tr/dotnet/csharp/)
-![](https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white)(https://www.python.org/)
-![](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white)(www.djangoproject.com)
-![](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)(www.mongodb.com)
-![](https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white)(www.sqlite.org/index.html)
-![](https://img.shields.io/badge/unity%20-%23100000.svg?&style=for-the-badge&logo=unity&logoColor=white)(https://unity.com/)
+[![](https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/tr-tr/dotnet/csharp/)
+[![](https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+[![](https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white)](www.djangoproject.com)
+[![](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)](www.mongodb.com)
+[![](https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white)](www.sqlite.org/index.html)
+[![](https://img.shields.io/badge/unity%20-%23100000.svg?&style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
 
 # Workspace Spec 
 
@@ -20,8 +20,8 @@
 
 # Games
 
-![](https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white)
-![](https://img.shields.io/badge/playstation-%23003791.svg?&style=for-the-badge&logo=playstation&logoColor=white)(https://my.playstation.com/profile/brkyzgr)
+[![](https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/barberk)
+[![](https://img.shields.io/badge/playstation-%23003791.svg?&style=for-the-badge&logo=playstation&logoColor=white)](https://my.playstation.com/profile/brkyzgr)
 
 # Contact
 
